@@ -164,6 +164,7 @@ Database:
 
 ## Project Structure
 
+``` txt
 Antifr/
 ├── frontend/
 │   ├── src/
@@ -192,6 +193,7 @@ Antifr/
 ├── CONTRIBUTING.md
 ├── LICENSE
 └── README.md
+```
 
 ---
 
